@@ -1,0 +1,10 @@
+{
+  "public" : {
+    "env": "Sandbox",
+    "BT_MERCHANT_ID": "xxxxxxxxxxxxxxxx",
+    "BT_PUBLIC_KEY": "xxxxxxxxxxxxxxxx"
+  },
+  "private": {
+    "BT_PRIVATE_KEY": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  }
+}

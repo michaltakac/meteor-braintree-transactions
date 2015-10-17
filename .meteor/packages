@@ -1,0 +1,44 @@
+# Meteor packages used by this project, one per line.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+standard-minifiers
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+reactive-var
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+less
+accounts-password
+alanning:roles
+zimme:active-route
+cmather:handlebars-server@0.2.0
+dburles:collection-helpers
+reywood:publish-composite
+momentjs:moment
+underscorestring:underscore.string
+matb33:collection-hooks
+dburles:factory
+anti:fake
+cunneen:mailgun
+yasinuslu:blaze-meta
+aldeed:collection2
+aldeed:autoform
+arillo:flow-router-helpers
+kadira:blaze-layout
+kadira:flow-router
+useraccounts:bootstrap
+useraccounts:flow-routing
+meteortoys:allthings@2.1.1
+patrickml:braintree
+
