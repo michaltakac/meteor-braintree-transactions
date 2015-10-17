@@ -58,7 +58,6 @@ logging@1.0.8
 matb33:collection-hooks@0.8.1
 meteor@1.1.9
 meteor-base@1.0.1
-meteorhacks:picker@1.0.3
 meteortoys:allthings@2.1.1
 meteortoys:authenticate@2.0.0
 meteortoys:autopub@2.0.1
